@@ -9,7 +9,7 @@ A mobile app project, built using <a href="https://reactnative.dev/">React Nativ
 + Users can see movies's rating as well as other people's reviews. They can also rate and write their own reviews.
 + Movies's rating will be updated when a review is added. Swipe down to refresh the details. 
 + All the data is stored using Firebase.
-+ A user cam search the movie on which he want to See the review and also provide his reviews .
++ A user can search the movie on which he want to See the review and also provide his reviews .
 
 
 ## Screenshots 🎬
