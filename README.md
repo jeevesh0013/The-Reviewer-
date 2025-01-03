@@ -35,5 +35,4 @@ A mobile app project, built using <a href="https://reactnative.dev/">React Nativ
 </div>
 
 ## Download APK 📱
-Click below to download the latest version of the app:
-<a href='./review app.apk'> The Reviewer  </a>
+Download the Apk file from this repo by clicking the "review app.apk " in your mobile devices and download it . 
