@@ -33,6 +33,4 @@ A mobile app project, built using <a href="https://reactnative.dev/">React Nativ
     <img src='./Screenshots/review.jpeg' width='250' hspace="10"/>
     <img src='./Screenshots/providereview.jpeg' width='250' hspace="10"/>
 </div>
-
-## Download APK 📱
-Download the Apk file from this repo by clicking the "review app.apk " in your mobile devices and download it . 
+ 
