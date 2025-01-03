@@ -27,6 +27,7 @@ A mobile app project, built using <a href="https://reactnative.dev/">React Nativ
 </div>
 <br />
 <div>
+    <img src='./Screenshots/userprofile2.jpeg' width='250' hspace="10"/>
     <img src='./Screenshots/userprofile (2).jpeg' width='250' hspace="10"/>
     <img src='./Screenshots/search.jpeg' width='250' hspace="10"/>
     <img src='./Screenshots/review.jpeg' width='250' hspace="10"/>
