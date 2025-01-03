@@ -34,6 +34,6 @@ A mobile app project, built using <a href="https://reactnative.dev/">React Nativ
     <img src='./Screenshots/providereview.jpeg' width='250' hspace="10"/>
 </div>
 
-### Download APK 📱
+## Download APK 📱
 Click below to download the latest version of the app:
 <a href='./review app.apk'> The Reviewer</a>
